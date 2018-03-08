@@ -1,0 +1,31 @@
+img{	
+	height: auto;
+	width: 100%;
+}
+.bar{
+	background-color: red;
+	text-align: center;
+	font-size: 200%;
+}
+h1{
+	color: red;
+	text-align: center;
+	font-size: 500%;
+}
+.block{
+	background-color: red;
+}
+.AH{
+	height: 60%;
+	width: 90%;
+	margin-top: 20px;
+}
+.bio{
+	margin-top: 4%;
+}
+h3{
+	margin-top: 4%;
+}
+h2{
+	text-align: center;
+}
